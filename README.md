@@ -42,7 +42,7 @@
 
 ## 版权信息  
 
-<img src="https://github.com/swsoyee/Bangumi.tv-night-mode-CSS/blob/master/by-nc.png" width="50">  
+<img src="https://github.com/swsoyee/Bangumi.tv-night-mode-CSS/blob/master/by-nc.png" width="80"> 
 
 [Install with Stylish]: https://userstyles.org/styles/139310/bangumi-tv
 
