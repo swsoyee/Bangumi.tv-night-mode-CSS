@@ -27,7 +27,7 @@ body.bangumiNeue {
 
 /*点格子界面*/
 .jspContainer {
-	background: black;
+	background: #222;
 }
 
 #prgManagerHeader {
@@ -50,7 +50,7 @@ body.bangumiNeue {
 	background: black;
 }
 
-#cloumnSubjectInfo .tinyMode div.tinyHeader a {
+#cloumnSubjectInfo .tinyMode div.tinyHeader a, ul#prgSubjectList.full li a.title {
 	color: #f09199;
 }
 
@@ -96,7 +96,10 @@ ul.sideTpcList li .inner {
 .line_even {
 	background-color: #222222;	
 }
-
+/**/
+.line_odd {
+    background-color: #222;   
+}
 /*底部的关于我们部分*/
 div#footer ul#footerLinks {
 	background: #1c1c1c;
@@ -202,9 +205,7 @@ div.SidePanel, div.SidePanelLow {
 #ChartWarpper .chart_desc {
 	background-color: #555555;
 }
-.rateEmo {
-   background: transparent url(https://i.loli.net/2017/10/02/59d22ca89c4e1.png) no-repeat 
-}
+
 
 /*介绍字体颜色*/
 div#subject_detail div#subject_summary {
@@ -272,8 +273,14 @@ ul.browserList li.even {
 .navSubTabsWrapper {
 	background: none;
 }
+
+/*tag标签的底色*/
+div.subject_tag_section a.l {
+    background: #373737;
+}
+
 /*评论气泡*/
-#comment_box .text, #comment_box .text_pm {
+#comment_box .text_main_even .text, #comment_box .text_main_odd .text, #comment_box .text_pm {
     background: #333;
 }
 div#comment_box .text {
@@ -434,7 +441,15 @@ div.menu_inner a:hover{
 span[style="background-color:#555;color:#555;border:1px solid #555;"]:hover {
     color: #CCCCCC !important;
 }
-
+/*评论框底色*/
+textarea.reply, textarea.quick:focus, textarea.reply:focus, input.inputtext, input.inputtext:focus {
+    background-color: #222222;   
+    color: #cccccc;
+}
+/*评论标题"请填写标题"，"请填写回复内容"字体颜色*/
+table.settings td label, label.error {
+    color: #f09199;
+}
 /*about页面*/
 div.about_text {
     color: #cccccc;
@@ -446,4 +461,29 @@ small {
 /*首页的文字阴影*/
 #cloumnSubjectInfo div.header h3 {
     text-shadow: none;
+}
+#cloumnSubjectInfo, #cloumnSubjectInfo .blockMode {
+    background-color: #222;
+}
+
+/*************人物*************/
+#columnChlCrtB {
+    background-color: #222;
+}
+#headerSubject h1 {
+    color: white;   
+}
+
+/*频道上面区域的说明文字颜色*/
+#news_list div.item .content {
+    color: #aaa;   
+}
+
+/*条目筛选右侧低栏*/
+#columnSubjectBrowserB .sideInner {
+    background: #333;   
+}
+/*条目筛选右侧标题栏*/
+#columnSubjectBrowserB .sideInner h2 {
+    background: #222
 }
