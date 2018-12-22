@@ -20,7 +20,7 @@
 ## 使用方法  
 
 1. 确保浏览器（**Chrome**或者**Firefox**）等已经安装了[Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?utm_source=chrome-ntp-icon)或者[Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?utm_source=chrome-ntp-icon)等插件并且开启；
-2. 跳转到[<img src="https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg", width="80">][Stylish page]面后直接点击`⬇ Install Style`按键即可一键安装并且使用。  
+2. 跳转到[Stylish页面](https://userstyles.org/styles/139310/bangumi-tv)后直接点击`⬇ Install Style`按键即可一键安装并且使用。  
 
 
 
@@ -45,5 +45,4 @@
 <img src="https://github.com/swsoyee/Bangumi.tv-night-mode-CSS/blob/master/by-nc.png" width="80"> 
 
 [Install with Stylish]: https://userstyles.org/styles/139310/bangumi-tv
-[Stylish page]: https://userstyles.org/styles/139310/bangumi-tv
 
