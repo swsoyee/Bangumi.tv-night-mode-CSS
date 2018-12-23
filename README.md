@@ -1,6 +1,7 @@
 # 🌙Bangumi.tv夜间模式  
 [![Install with TamperMonkey](https://img.shields.io/badge/Install%20with-TamperMonkey-00adad.svg)][Install with TamperMonkey]
-[![Install with Stylish](https://img.shields.io/badge/Install%20with-Stylish-00adad.svg)][Install with Stylish]  
+[![Install with Stylish](https://img.shields.io/badge/Install%20with-Stylish-00adad.svg)][Install with Stylish]
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)  
 
 本CSS样式为Bangumi.tv的夜间模式，为了方便夜间使用而编写的。    
 由于自己日常使用界面有限，可能并不是所有元素都进行了合适的更改，如有发现希望得到各位的反馈以便后期更新。  
@@ -39,11 +40,6 @@
 - 0.1.1 修改了部分微小的地方的颜色  
 - 0.1.0 测试上线  
 
-
-
-## 版权信息  
-
-<img src="https://github.com/swsoyee/Bangumi.tv-night-mode-CSS/blob/master/by-nc.png" width="80"> 
 
 [Install with TamperMonkey]: https://userstyles.org/styles/userjs/139310/bangumi-tv.user.js
 [Install with Stylish]: https://userstyles.org/styles/139310/bangumi-tv
