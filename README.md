@@ -6,11 +6,11 @@
 ![Release](https://img.shields.io/github/release/swsoyee/Bangumi.tv-night-mode-CSS.svg)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)  
 
----
-<img src="https://userstyles.org/style_screenshots/139310_after.jpeg?r=1545484596" width="420" align="right" style="max-width: 50%">
-本CSS样式为Bangumi.tv的夜间模式，为了方便夜间使用而编写的。    
+---  
+<img src="https://userstyles.org/style_screenshots/139310_after.jpeg?r=1545484596" width="420" align="right" style="max-width: 50%">  
+本CSS样式为[`Bangumi.tv`](https://bangumi.tv/)的夜间模式，为了方便夜间使用而编写的。    
 由于自己日常使用界面有限，可能并不是所有元素都进行了合适的更改，如有发现希望得到各位的反馈以便后期更新。  
-
+  
 
 ⭐全站启用护眼黑色调显示  
 ⭐点格子界面预览图圆形显示  
