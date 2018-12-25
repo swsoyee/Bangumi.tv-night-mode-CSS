@@ -3,7 +3,7 @@
 [![Install with TamperMonkey](https://img.shields.io/badge/Install%20with-TamperMonkey-00adad.svg)][Install with TamperMonkey]
 [![Install with Stylish](https://img.shields.io/badge/Install%20with-Stylish-00adad.svg)][Install with Stylish]
 ![Last commit](https://img.shields.io/github/last-commit/swsoyee/Bangumi.tv-night-mode-CSS.svg)
-![Release](https://img.shields.io/github/release/swsoyee/Bangumi.tv-night-mode-CSS.svg)
+![Pre release](https://img.shields.io/github/release-pre/swsoyee/Bangumi.tv-night-mode-CSS.svg)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)  
 
 ---  
