@@ -1,5 +1,5 @@
 # 🌙Bangumi.tv夜间模式  
-[![Downloads](https://img.shields.io/badge/Downloads-325-orange.svg)](https://userstyles.org/styles/139310/bangumi-tv)
+[![Downloads](https://img.shields.io/badge/Downloads-364-orange.svg)](https://userstyles.org/styles/139310/bangumi-tv)
 [![Install with TamperMonkey](https://img.shields.io/badge/Install%20with-TamperMonkey-00adad.svg)][Install with TamperMonkey]
 [![Install with Stylish](https://img.shields.io/badge/Install%20with-Stylish-00adad.svg)][Install with Stylish]
 ![Last commit](https://img.shields.io/github/last-commit/swsoyee/Bangumi.tv-night-mode-CSS.svg)
@@ -29,6 +29,7 @@
 
 
 ## 更新记录  
+- 0.2.8 更新开发者平台/超合金组件部分的颜色配置
 - 0.2.7 👑部分细节更新  
 - 0.2.6 更新了死掉的评分星星的图片地址  
 - 0.2.5 修改了调整后的评论气泡  

@@ -487,3 +487,27 @@ small {
 #columnSubjectBrowserB .sideInner h2 {
     background: #222
 }
+
+/*************页面|dev|app*************/
+/*右侧关于应用的说明文字颜色*/
+div.SidePanel p.desc {
+	color: #aaa;
+}
+/*单个组件页面说明文字颜色*/
+div.grp_box {
+	color: #aaa;
+}
+/*当个组件页面组件版本说明评论文字颜色*/
+span.comment {
+	color: #aaa;
+}
+/*h2标题颜色*/
+h2.subtitle, #columnSubjectA h2, #columnInSubjectA h2 {
+	color: rgb(194, 194, 194);
+}
+
+/*************页面|settings|gadgets*************/
+/*超合金组件列表文字颜色*/
+div#timeline ul li span.info {
+	color: #aaa;
+}
